@@ -1,4 +1,4 @@
-Repo for the _Findings of ACL 2024_ paper
+Repo for _Findings of ACL 2024_ paper:
 #### Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)
 Paper: https://arxiv.org/abs/2408.04664
 
